@@ -4,6 +4,9 @@ rr1---sn-uxaxufv-uaae.googlevideo.com
 rr5---sn-5goeenes.googlevideo.com
 rr5---sn-5go7ynlk.googlevideo.com
 rr1---sn-5go7ynl6.googlevideo.com
+rr5---sn-4g5e6nzl.googlevideo.com
+rr2---sn-uxaxufv-uaae.googlevideo.com
+r3---sn-5go7ynld.googlevideo.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
 afs.googlesyndication.com
